@@ -1,0 +1,3 @@
+include ':mnetwork'
+include ':app'
+rootProject.name = "MNetWork"
